@@ -29,7 +29,7 @@ h3 {
 nav {
 margin-top: 5px;
 margin-bottom: 50px;
-  text-align: center;
+text-align: center;
   }
 
 a:link {
@@ -40,7 +40,8 @@ a:hover {
 }
 
 section {
-  margin: auto
+  margin: auto;
+  padding: 50px;
 }
 
 p {
