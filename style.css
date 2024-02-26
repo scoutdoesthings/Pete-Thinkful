@@ -2,7 +2,8 @@
 body {
     font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, "sans-serif";
     background-color: #eae2b7;
-  color: #003049
+  color: #003049;
+    max-width: 600px;
 }
   
 header {
