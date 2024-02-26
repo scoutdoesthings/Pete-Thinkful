@@ -46,7 +46,8 @@ section {
 }
 
 p {
-  line-height: 1.5
+  line-height: 1.5;
+    text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
