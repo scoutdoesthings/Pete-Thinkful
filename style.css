@@ -39,7 +39,12 @@ a:link {
 a:hover {
   color: #f77f00
 }
-
+ul {
+    text-align: center;
+}
+li {
+    text-align: center;
+}
 section {
   margin: auto;
    padding: 50px;
