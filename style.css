@@ -43,11 +43,13 @@ a:hover {
 section {
   margin: auto;
   padding: 50px;
+text-align: center;
 }
 
 p {
   line-height: 1.5;
     margin: auto;
+    text-align: center;
 }
 
 /* The div container constrains the content width within the main container to 600px */
