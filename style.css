@@ -2,8 +2,9 @@
 body {
     font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, "sans-serif";
     background-color: #eae2b7;
-  color: #003049;
-  }
+  color: #003049
+  max-width: 50%;
+}
   
 header {
   text-align: center;
@@ -28,8 +29,8 @@ h3 {
 
 nav {
 margin-top: 5px;
-margin-bottom: 50px;
-text-align: center;
+margin-bottom: 25px;
+  text-align: center;
   }
 
 a:link {
@@ -41,20 +42,19 @@ a:hover {
 
 section {
   margin: auto;
-  padding: 50px;
-text-align: center;
+   padding: 50px;
+  text-align: center;  
 }
 
 p {
-  line-height: 1.5;
-    margin: auto;
-    text-align: center;
+  line-height: 1.5
+  text-align: center
 }
 
 /* The div container constrains the content width within the main container to 600px */
 div {
-  margin: auto;
-  text-align: center
+   text-align: center;
+  
 }
 
 img {
@@ -65,8 +65,8 @@ img {
 
 hr {
   border: 1px solid black;
-  margin-top: 50px;
-  margin-bottom: 50px
+  margin-top: 25px;
+  margin-bottom: 25px
 }
 
 /* Add your solution below */
@@ -75,3 +75,4 @@ hr {
   border-radius: 50%;
   border: 2px solid #003049
 }
+
