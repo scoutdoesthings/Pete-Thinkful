@@ -1,30 +1,32 @@
-
 body {
     font-family: "Source Sans Pro", Tahoma, Geneva, Verdana, "sans-serif";
     background-color: #eae2b7;
-  color: #003049
-  max-width: 50%;
-}
-  
+  color: #003049;
+ }
+
+/*header, nav, and headings should be centered. text and lists should be left aligned. pictures in portfolio should be centered.*/
+
 header {
   text-align: center;
   }
 
-/* Set the font family for any h1, h2, or h3 heading */
+
 h1 {
   font-family: "Playfair Display", Times, serif;
   margin: auto;
-  text-align: center
+  text-align: center;
 }
 
 h2 {
   font-family: 'Arial Narrow', Arial, sans-serif;
-  margin-bottom: 20px
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 h3 {
   font-family: 'Arial Narrow', Arial, sans-serif;
-  margin-bottom: 20px
+  margin-bottom: 20px;
+  text-align: center;
 }
 
 nav {
@@ -34,56 +36,56 @@ margin-bottom: 25px;
   }
 
 a:link {
-  color: #d62828
+  color: #d62828;
 }
+
 a:hover {
-  color: #f77f00
+  color: #f77f00;
 }
+
 ol {
-    text-align: center;
+    text-align: left;
       list-style-position: inside;
 }
+
 li {
-    text-align: center;
+    text-align: left;
      }
+
 ul {
-    text-align: center;
+    text-align: left;
       list-style-position: inside;
-}
-section {
-  margin: auto;
-    padding: 50px;
-  text-align: center; 
-  list-style-position: inside;
 }
 
 p {
-  line-height: 1.5
-  text-align: center
+  line-height: 1.5;
+  text-align: left;
+}
+/*added div 1 and div 2 for different alignment*/
+.div-1 {
+   text-align: center;
+   list-style-position: inside;
+  margin: auto;
 }
 
-/* The div container constrains the content width within the main container to 600px */
-div {
-   text-align: center;
-  
+.div-2 {
+  text-align: left;
+  margin: auto;
 }
 
 img {
   width: 100%;
    max-width: 200px;
-  height: auto
+  height: auto;
 }
 
 hr {
   border: 1px solid black;
   margin-top: 25px;
-  margin-bottom: 25px
+  margin-bottom: 25px;
 }
-
-/* Add your solution below */
 
 .image-circle {
   border-radius: 50%;
-  border: 2px solid #003049
+  border: 2px solid #003049;
 }
-
