@@ -14,25 +14,20 @@ header {
 
 h1 {
   font-family: "Playfair Display", Times, serif;
-  margin: auto;
   text-align: center;
 }
 
 h2 {
   font-family: 'Arial Narrow', Arial, sans-serif;
-  margin-bottom: 20px;
   text-align: center;
 }
 
 h3 {
   font-family: 'Arial Narrow', Arial, sans-serif;
-  margin-bottom: 20px;
   text-align: center;
 }
 
 nav {
-margin-top: 5px;
-margin-bottom: 25px;
   text-align: center;
   }
 
@@ -45,22 +40,19 @@ a:hover {
 }
 
 ol {
-    text-align: left;
-      list-style-position: inside;
+ list-style-position: inside;
 }
 
 li {
-    text-align: left;
+    text-align: center;
      }
 
 ul {
-    text-align: left;
-      list-style-position: inside;
+  list-style-position: inside;
 }
 
 p {
   line-height: 1.5;
-  text-align: left;
 }
 /*added div 1 and div 2 for different alignment*/
 .div-1 {
@@ -82,8 +74,6 @@ img {
 
 hr {
   border: 1px solid black;
-  margin-top: 25px;
-  margin-bottom: 25px;
 }
 
 .image-circle {
