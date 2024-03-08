@@ -60,18 +60,7 @@ ul {
 p {
   line-height: 1.5;
 }
-/*commenting out div 1, div 2 for now
-.div-1 {
-   text-align: center;
-   list-style-position: inside;
-  margin: auto;
-}
 
-.div-2 {
-  text-align: left;
-  margin: auto;
-}
-*/
  div {
   margin: auto;
   width: 600px;
@@ -81,8 +70,6 @@ img {
   width: 99%;
    max-width: 200px;
   height: auto;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 hr {
