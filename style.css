@@ -39,6 +39,7 @@ a:link {
 a:hover {
   color: #f77f00;
 }
+/*-- section needs to stay left, but images need to be centered*/
 
 section {
 text-align: left;
@@ -81,6 +82,7 @@ img {
   width: 100%;
    max-width: 200px;
   height: auto;
+    text-align: center;
     margin: 0 auto;
 }
 
