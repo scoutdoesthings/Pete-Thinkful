@@ -41,8 +41,7 @@ a:hover {
 }
 
 section {
-margin: auto;
-    width: 600px;
+text-align: center;
 }
 
 ol {
@@ -60,7 +59,7 @@ ul {
 p {
   line-height: 1.5;
 }
-/*added div 1 and div 2 for different alignment*/
+/*commenting out div 1, div 2 for now
 .div-1 {
    text-align: center;
    list-style-position: inside;
@@ -70,6 +69,11 @@ p {
 .div-2 {
   text-align: left;
   margin: auto;
+}
+*/
+ div {
+  margin: auto;
+  width: 600px;
 }
 
 img {
