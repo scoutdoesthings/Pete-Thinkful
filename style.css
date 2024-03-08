@@ -66,6 +66,10 @@ p {
   width: 600px;
 }
 
+.images {
+    text-align: center;
+}
+
 img {
   width: 99%;
    max-width: 200px;
