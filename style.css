@@ -41,7 +41,7 @@ a:hover {
 }
 
 section {
-text-align: left;
+text-align: center;
 }
 
 ol {
@@ -80,6 +80,7 @@ img {
   width: 100%;
    max-width: 200px;
   height: auto;
+    margin: 0 auto;
 }
 
 hr {
