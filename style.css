@@ -3,6 +3,7 @@ body {
     background-color: #eae2b7;
   color: #003049;
     padding: 40px;
+    
  }
 
 /*header, nav, and headings should be centered. text and lists should be left aligned. pictures in portfolio should be centered.*/
@@ -37,6 +38,11 @@ a:link {
 
 a:hover {
   color: #f77f00;
+}
+
+section {
+margin: auto;
+    width: 600px;
 }
 
 ol {
